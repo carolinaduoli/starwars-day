@@ -1,0 +1,102 @@
+body{
+	background-color: black;
+	background-image: url('Imagens/background.png');
+	font-family: DIN, Helvetica, Arial, sans-serif;
+	font-size: 16px;
+
+}
+
+
+
+.menu{
+	font-family: Matterhorn;
+	font-size: 1.5em;
+	text-align: center;
+	
+
+}
+
+a{
+	color: #FFFF00;
+	text-decoration: none;
+	padding: 7px;
+	display: inline-block;
+	background-color: #151515;
+	
+}
+
+#logo{
+	width: 500px;
+	display: block;
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.conteudo{
+	width: 500px;
+	display: block;
+	padding: 20px;
+	margin-top: 30px;
+	margin-left: 200px;
+	
+}
+
+.gif-yoda{
+	display: block;
+	width: 300px;
+	margin-left: 280px;
+
+}
+
+h2{
+	color: white;
+	text-align: center;
+
+}
+
+#logo-saga{
+	width: 200px;
+	display: block;
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+.saga{
+	width: 500px;
+	display: block;
+	padding: 20px;
+	margin-top: 30px;
+	margin-left: 400px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	font-size: 1.2em;
+
+}
+
+p{
+	width: 900px;
+	color: white;
+	padding: 0.5px;
+	text-align: center;
+	font-size: 1.2em;
+	
+}
+
+#comentario{
+	font-size: 20px;
+	display: inline-block;
+	margin-left: 200px;
+}
+
+.r2d2{
+	width: 300px;
+	display: block;
+	margin-left: 500px;
+
+}
+
